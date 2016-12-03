@@ -1,5 +1,21 @@
-# move-tab-or-split package
+# Move tab or split
 
-A short description of your package.
+Move your tabs around, and split to a new pane if there'r no panes in that direction.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+When you move from a single tab pane, that pane will be removed.
+
+Can move up, down, left, right.
+
+Can't split if the tab is the only tab in a pane.
+
+## Shortcuts:
+
+`alt + ctrl + left`
+
+`alt + ctrl + right`
+
+`alt + ctrl + up`
+
+`alt + ctrl + down`
+
+![](https://raw.githubusercontent.com/vovanmix/atom-move-tab-or-split/master/demo.gif)
