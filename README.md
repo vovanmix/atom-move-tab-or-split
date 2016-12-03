@@ -1,3 +1,5 @@
+https://atom.io/packages/move-tab-or-split
+
 # Move tab or split
 
 Move your tabs around, and split to a new pane if there'r no panes in that direction.
