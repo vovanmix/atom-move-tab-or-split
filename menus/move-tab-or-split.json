@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle move-tab-or-split",
+        "command": "move-tab-or-split:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "move-tab-or-split",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "move-tab-or-split:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

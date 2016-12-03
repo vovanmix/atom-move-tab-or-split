@@ -1,0 +1,5 @@
+'atom-workspace':
+  'ctrl-alt-right': 'move-tab-or-split:move-right'
+  'ctrl-alt-left': 'move-tab-or-split:move-left'
+  'ctrl-alt-down': 'move-tab-or-split:move-down'
+  'ctrl-alt-up': 'move-tab-or-split:move-up'

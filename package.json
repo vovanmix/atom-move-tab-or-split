@@ -1,0 +1,23 @@
+{
+  "name": "move-tab-or-split",
+  "main": "./lib/move-tab-or-split",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "move-tab-or-split:right",
+      "move-tab-or-split:left",
+      "move-tab-or-split:up",
+      "move-tab-or-split:down"
+    ]
+  },
+  "repository": "https://github.com/vovanmix/move-tab-or-split",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
