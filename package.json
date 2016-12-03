@@ -13,7 +13,7 @@
       "move-tab-or-split:down"
     ]
   },
-  "repository": "https://github.com/vovanmix/move-tab-or-split",
+  "repository": "https://github.com/vovanmix/atom-move-tab-or-split",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
