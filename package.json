@@ -1,7 +1,7 @@
 {
   "name": "move-tab-or-split",
   "main": "./lib/move-tab-or-split",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
