@@ -10,6 +10,10 @@ Can move up, down, left, right.
 
 Can't split if the tab is the only tab in a pane.
 
+## Usage
+- You must first click body text for the shortcut keys to work. (Simply clicking the tab at top or hoping it will remember where you were last will not work.)
+- "Special" tabs like Settings or a Markdown preview cannot be moved with this pluggin.
+
 ## Shortcuts:
 
 `alt + ctrl + left`
